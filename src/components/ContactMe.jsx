@@ -14,7 +14,7 @@ const ContactMe = () => {
         <div className="bg-[#0f0b34] p-8 rounded-lg shadow-md">
           <h3 className="text-xl font-bold mb-6 text-[#16f2b3]">Send a Message</h3>
           <form
-          action="https://getform.io/f/bnllmjxb"
+          action="https://getform.io/f/bgdljxea"
           method="POST"
           >
             <div className="mb-6">
