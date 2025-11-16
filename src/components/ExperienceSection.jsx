@@ -5,9 +5,9 @@ import ex from "../assets/exper.png";
 const ExperienceSection = () => {
   const experiences = [
     {
-      period: "July 2024 - August 2024",
-      title: "Web Developer Intern",
-      company: "UNIFIED MENTOR",
+      period: "May-2025 - September 2025",
+      title: "MERN Stack Developer Intern",
+      company: "Metricoid Technology Solutions Pvt. Ltd.",
     },
   ];
 

@@ -4,17 +4,28 @@ import { motion } from "framer-motion";
 const ProjectsSection = () => {
   const projects = [
     {
+  title: "QuickGPT – AI Chat Application",
+  description:
+    "A fast and user-friendly AI chat app built with React, Node.js, and MongoDB featuring secure JWT login, saved chat history, credit-based message system, and smooth real-time responses.",
+  link: "https://quick-gpt-sable.vercel.app/",
+  },
+  {
+    title: "ThinkFashion – MERN eCommerce Website",
+   description:
+    "A secure and scalable MERN-based eCommerce platform with JWT login, Google OAuth, Stripe payments, and full admin controls for managing products, users, orders, and reviews.",
+    link: "https://thinkfashion-random.vercel.app/",
+   },
+    {
       title: "Employee Management System",
       description:
         "A role-based Employee Management System using React.js and Tailwind CSS with role-specific dashboards, task assignment, and localStorage-based authentication.",
-      link: "https://github.com/Sushant-er/Employee-Management-System",
-    }
-    ,
+      link: "https://ems-bxj4.onrender.com",
+    },
     {
       title: "Amazon Clone",
       description:
         "A Amazon homepage clone using HTML and CSS, showcasing layout design, semantic structure, and styling with Flexbox and media queries.",
-      link: "https://github.com/Sushant-er/Amazon_Copy",
+      link: "https://amazon-copy.onrender.com",
     },
     {
       title: "Lazarev website clone",
