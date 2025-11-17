@@ -48,8 +48,8 @@ const PortfolioHero = () => {
               <span>Contact Me</span>
             </a>
             <a
-              href="https://drive.google.com/file/d/1GLXFBBFTeIVckgpsqtjjKBuIkvfzerDh/view?usp=drive_link"
-              download="Sushant's Frontend resume.pdf"
+              href="https://drive.google.com/file/d/1On1wogTiFNrSC_L7BHV5UZFc2ove6Nty/view?usp=drive_link"
+              download="Sushant's resume.pdf"
               className="bg-transparent border border-pink-500 hover:bg-pink-500 text-white py-2 px-4 rounded-md flex items-center space-x-2"
             >
               <span>Get Resume</span>
